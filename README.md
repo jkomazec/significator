@@ -1,2 +1,2 @@
 # significator
-app that colors significancec
+app that colors significances
